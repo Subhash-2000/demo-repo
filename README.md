@@ -17,3 +17,6 @@ Note: git add . (Which will add all the modified and untracked files that are in
 Note: To take the files or folder from git tracking we make use of git restore --staged <file>....".
 7. Next we want to do commit with messeage (what and why behind the commit you are doing) that the changes that we made. 
 Note: command to commit -> [git commit -m "Added index.html(This is title of the message) -m ""(Message for discription box)]
+By this we have saved the modified/created files locally but still commit isn't live on github we make it live by another command called git push
+(Which means i want to push this live to github/remote repository where our current project hosted)
+To make this happen we want to connect your local machine to github account, this can be done by SSH keys.
