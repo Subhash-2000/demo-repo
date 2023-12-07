@@ -21,3 +21,7 @@ By this we have saved the modified/created files locally but still commit isn't 
 (Which means i want to push this live to github/remote repository where our current project hosted)
 To make this happen we want to connect your local machine to github account, this can be done by SSH keys.
 But we did automatically like i just committed all the untraacked files and made git push thats it.
+
+## Local Development
+
+1.Open index.htmlin your browser.
